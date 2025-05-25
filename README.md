@@ -27,3 +27,5 @@ Highlighted anomalies and outliers for clinical attention
 Provided insights that could aid in risk stratification
 
 This project demonstrates my ability to transform raw clinical data into meaningful visual stories using Tableau and provides a practical example of how data can support healthcare outcomes.
+
+For reference: https://public.tableau.com/app/profile/anita.khatri/viz/
